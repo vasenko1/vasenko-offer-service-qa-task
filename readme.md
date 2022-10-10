@@ -55,10 +55,12 @@ Run both 'offer-service' and 'offer-interface' services before test execution.
 
 ### Integration tests
     How to run:
+    buid the project in IDE
     go to "offer-service" folder
     run "mvn test"
 
 ### UI tests (end-to-end)
     How to run:
+    buid the project in IDE
     go to root project folder
     run "mvn test"
